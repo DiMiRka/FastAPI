@@ -1,5 +1,4 @@
 [tool.poetry]
-name = "FastAPI"
 version = "0.1.0"
 description = ""
 authors = ["Mark Chalenko <markus.chalenko@gmail.con>"]
